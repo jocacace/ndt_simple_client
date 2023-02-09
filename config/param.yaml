@@ -1,0 +1,30 @@
+Kp_vel: 0.8
+Kd_vel: 1.7
+Ki_vel: 0.1
+acc_max: 0.2
+Kp_pos: 1.5
+Kd_pos: 2.0
+Ki_pos: 0.1
+Kp_yaw: 1.5
+Kd_yaw: 2.0
+Ki_yaw: 0.1
+max_vel: 0.1
+max_acc: 2
+max_jerk: 4
+max_vel_yaw: 3
+max_acc_yaw: 6
+max_jerk_yaw: 12
+
+ref_omega0_xyz: 2.0
+ref_zita: 0.7
+ref_jerk_max: 5.0
+ref_acc_max: 1.0
+max_cruise_vel: 0.05
+max_cruise_yaw_vel: 1.57
+yaw_motion_threshold: 0.2
+linear_motion_threshold: 0.15
+
+
+
+
+

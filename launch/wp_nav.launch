@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<launch>
+
+
+  <rosparam command="load" file="$(find ndt_simple_client)/config/param.yaml" />
+  <node pkg="ndt_simple_client" type="simple_client" name ="ndt_simple_client" output="screen" />
+
+</launch>	
